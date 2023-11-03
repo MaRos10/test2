@@ -1,3 +1,7 @@
+body{
+    background-color: rgb(32, 33, 36);
+}
+
 h1{
     color: goldenrod;
     text-align: center;
@@ -19,7 +23,8 @@ p{
 }
 
 button{
-        background-color: #afaa4c; 
+        background-color: #d7a24b; 
+        font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
         border: none;
         color: white;
         padding: 15px 32px;
